@@ -1,3 +1,5 @@
+![](https://drive.google.com/file/d/14eFiePsdMFqd4DRNQ_k1gI6XcJe-VHRo/view?usp=drive_link)
+
 # Hi there, I'm Athif Ahamed P V! 👋
 
 ## About Me
@@ -5,7 +7,7 @@ I am a natural born engineer with high analytical, problem-solving, and quick le
 
 - 🌱 My intrests span across Cyber Security, Cloud, Web Development and App Development !
 - 💬 Ask me about C, HTML, CSS, Python, SQL, or anything tech-related!
-- 📖 Currently learning more about python and plans to undertake IBM's Cybersecurity Analyst Professional Certificate course in the near future !
+- 📖 Currently learning more about ***python*** and plans to undertake ***IBM's Cybersecurity Analyst Professional Certificate*** course in the near future !
 
 
 ## Skills
@@ -20,7 +22,7 @@ I am a natural born engineer with high analytical, problem-solving, and quick le
 
 ## Professional Experience
 ### Co-Founder of Prospello
-Prospello is a startup focused on providing IT and business solutions. As a co-founder, I've worn many hats to establish the brand. Along the journey, I've developed great relations with customers, learned how businesses operate, and mainly how to NOT run a startup.
+Prospello is a startup focused on providing IT and business solutions. As a Co-founder, I've worn many hats to establish the brand. Along the journey, I've developed great relations with customers, learned how businesses operate, and mainly how to NOT run a startup 😁.
 
 
 ## How to Reach Me
