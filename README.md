@@ -17,6 +17,14 @@ I am a natural born engineer with high analytical, problem-solving, and quick le
 - Python: ⭐️⭐️⭐️☆☆
 - SQL: ⭐️⭐️⭐️☆☆
 
+
+## Projects
+### Violence Detector
+-Uses image processing to detect violence and notify respective authorities.
+### Super Resolution(On going)
+-Uses GAN to increase the resolution of any give image, useful in many scenarios like medical imaging, satelite imaging etc.
+
+
 ## Internship Experience
 - NeST Cyber Campus
 
