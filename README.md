@@ -20,16 +20,16 @@ I am a natural born engineer with high analytical, problem-solving, and quick le
 
 
 ## Projects
-### Violence Detector
+### Violence Detector ⚠️⚠️
 -Uses image processing to detect violence and notify respective authorities.
 ### Super Resolution(On going)
 -Uses GAN to increase the resolution of any give image, useful in many scenarios like medical imaging, satelite imaging etc.
 
 
-## Internship Experience
+## Internship Experience 📚📚
 - NeST Cyber Campus
 
-## Professional Experience
+## Professional Experience 📊💼
 ### Co-Founder of Prospello
 Prospello is a startup focused on providing IT and business solutions. As a Co-founder, I've worn many hats to establish the brand. Along the journey, I've developed great relations with customers, learned how businesses operate, and mainly how to NOT run a startup 😁.
 
