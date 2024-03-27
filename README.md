@@ -1,4 +1,4 @@
-![Alt Text](https://github.com/athif-work/aboutMe/blob/main/resi.gif)
+![Alt Text](https://github.com/athif-work/aboutMe/blob/main/or.gif)
 
 
 # Hi there, I'm Athif Ahamed P V! 👋
