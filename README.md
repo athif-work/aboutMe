@@ -38,5 +38,4 @@ Prospello is a startup focused on providing IT and business solutions. As a Co-f
 
 - [Instagram](https://www.instagram.com/athif_ahmd/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Instagram_icon.png/600px-Instagram_icon.png" alt="Instagram Logo" width="20"/>](https://www.instagram.com/athif_ahmd/) 
 - [LinkedIn](https://www.linkedin.com/in/athif2002/) [<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/768px-LinkedIn_logo_initials.png" alt="LinkedIn Logo" width="20"/>](https://www.linkedin.com/in/athif2002/)
-- Phone: +91 9539470055 📞
 - Email: work.athif@gmail.com ✉️
